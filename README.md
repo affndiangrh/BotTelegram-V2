@@ -15,7 +15,7 @@ Noted : This source code is still BETA TEST and is still in the development stag
   
   ```bash
   git clone https://github.com/affndiangrh/BotTelegram-V2.git
-  cd botTelegram-NodeJS
+  cd BotTelegram-V2
   ```
 
 - Installation of the Telegram Bot API library
