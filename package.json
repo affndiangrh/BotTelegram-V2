@@ -1,0 +1,17 @@
+{
+  "name": "dipannbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "bot": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "node-telegram-bot-api": "^0.66.0",
+    "tiktok-scraper": "^1.4.36"
+  }
+}
