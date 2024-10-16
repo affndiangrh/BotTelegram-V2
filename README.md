@@ -14,7 +14,7 @@ Noted : This source code is still BETA TEST and is still in the development stag
 - Clone This Repositories.
   
   ```bash
-  git clone https://github.com/affndiangrh/botTelegram-NodeJS.git
+  git clone https://github.com/affndiangrh/BotTelegram-V2.git
   cd botTelegram-NodeJS
   ```
 
